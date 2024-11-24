@@ -85,7 +85,8 @@ Phase 2 of GAM water treatment (Regeneration)- Treatment Plant
 - No. of Sites: 13
 
 
-Old Design Projects 
+Old Design Projects
+
 Monde Nissin STP 
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <

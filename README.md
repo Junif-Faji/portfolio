@@ -104,6 +104,6 @@ List of Other Design Projects (Residential and Commercial)
 - Fit-out Electrical Design (Interior) for renovation of Condo Unit 1- Makati
 - Fit-out Electrical Design (Interior) for renovation of Condo Unit 2- Makati
 - Fit-out Electrical Design (Interior) for renovation of 230 sq.m Residential Unit- San Juan
-- CCTV and POS Design for 5 Floors Commercial Building - Ortigas, Pasig 
+- CCTV and POS Design for 5 Storey Commercial Building - Ortigas, Pasig 
 
 

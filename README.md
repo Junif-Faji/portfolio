@@ -1,7 +1,7 @@
 # Electrical Engineer
 
 ### Education 
-Bachelor of Schience in Electrical Engineering
+Bachelor of Science in Electrical Engineering
 
 ### Licenses
 (Philippines) Registered Electrical Engineer (REE) - Regulated by PRC

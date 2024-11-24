@@ -32,7 +32,9 @@ Total Work Experience: 8 Years
 
 The Design
 -  The Electrical Control and Power Design revolves in the design of control system and power requirements for the STP
+  
 ![sample design] (/assets/JUNIF ID PIC.JPG)
+
 -  It includes Equipment Load Calculations, Single Line, Three-Line, Motor Control Ladder Diagram, and Motor Control Panel Layout. PLC Ladder includes on the projects that requires PLC automation, this excludes ladder diagram of the PLC program itself. It also include the sizing  and the design of Transformer, Generator, ATS, Switchgears (low voltage) and other electrical machineries required on site. 
 >insert image of CAD Design for SLD, SoL, and MCC Panel Design<
 

@@ -42,7 +42,7 @@ The Implementation (On-site)
 > insert image of roughing-ins onsite<
 
 ### Design Projects 
-30 CMD Compact STP for Fast Food Chain
+30 CMD Compact STP (SSBR-AOP Process) for Fast Food Chain
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 -  Control Panel Assembly  
@@ -50,7 +50,6 @@ The Implementation (On-site)
 -  Testing and Commissioning
 > insert image <
 - No. of Sites: 8
-
 100 CMD STP (MBR Process)- Hotel
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
@@ -58,22 +57,19 @@ The Implementation (On-site)
 -  Implementation, Testing and Commissioning
 > insert image <
 - No. of Sites: 1
-
-Cistern Pumping Station 
+Cistern Pumping Station
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 -  Control Panel Assembly: Outsourced
 -  Implementation, Testing and Commissioning
 > insert image <
 - No. of Sites: 1
-
-120 CMD STP (SBR Process)- High-Rised Condominium
+120 CMD STP (SBR Process)- High-Rise Condominiums
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 -  Control Panel Assembly, Implementation, Testing and Commissioning: Not included in the scope
 - No. of Sites: 1
-
-Phase 2 of GAM water treatment (Regeneration)
+Phase 2 of GAM water treatment (Regeneration)- Treatment Plant
 - Design (Calculations, Motor Control Assembly and Electrical Layout)
 > insert image <
 > Control Panel Assembly, Implementation, Testing and Commissioning : On-going
@@ -83,17 +79,19 @@ Old Design Projects
 Monde Nissin STP 
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
-- Year Implemented: 2016-2017
-
+- Year Implemented: 2016
 ADL Bataan STP
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
-- Year Implemented: 2016-2017
+- Year Implemented: 2017
 
-List of Other Design Projects (Residential)
+List of Other Design Projects (Residential and Commercial)
+
+- Electrical Design for 3 Storey Clubhouse- Taytay, Rizal
 - 100sq.m Residential Project (Electrical Design- Lighting and Other Loads)- Antipolo
 - Fit-out Electrical Design (Interior) for renovation of Condo Unit 1- Makati
 - Fit-out Electrical Design (Interior) for renovation of Condo Unit 2- Makati
 - Fit-out Electrical Design (Interior) for renovation of 230 sq.m Residential Unit- San Juan
+- CCTV and POS Design for 5 Floors Commercial Building - Ortigas, Pasig 
 
 

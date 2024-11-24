@@ -55,6 +55,7 @@ The Implementation (On-site)
 -  Testing and Commissioning
 > insert image <
 - No. of Sites: 8
+  
 100 CMD STP (MBR Process)- Hotel
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
@@ -62,6 +63,7 @@ The Implementation (On-site)
 -  Implementation, Testing and Commissioning
 > insert image <
 - No. of Sites: 1
+
 Cistern Pumping Station
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
@@ -69,11 +71,13 @@ Cistern Pumping Station
 -  Implementation, Testing and Commissioning
 > insert image <
 - No. of Sites: 1
+
 120 CMD STP (SBR Process)- High-Rise Condominiums
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 -  Control Panel Assembly, Implementation, Testing and Commissioning: Not included in the scope
 - No. of Sites: 1
+
 Phase 2 of GAM water treatment (Regeneration)- Treatment Plant
 - Design (Calculations, Motor Control Assembly and Electrical Layout)
 > insert image <
@@ -85,6 +89,7 @@ Monde Nissin STP
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 - Year Implemented: 2016
+  
 ADL Bataan STP
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <

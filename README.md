@@ -84,6 +84,7 @@ Phase 2 of GAM water treatment (Regeneration)- Treatment Plant
 > Control Panel Assembly, Implementation, Testing and Commissioning : On-going
 - No. of Sites: 13
 
+
 Old Design Projects 
 Monde Nissin STP 
 -  Design (Calculations, Motor Control Panel Assembly Layout)
@@ -94,6 +95,7 @@ ADL Bataan STP
 -  Design (Calculations, Motor Control Panel Assembly Layout)
 > insert image <
 - Year Implemented: 2017
+
 
 List of Other Design Projects (Residential and Commercial)
 

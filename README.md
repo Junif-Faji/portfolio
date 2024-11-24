@@ -78,7 +78,7 @@ Cistern Pumping Station
 -  Control Panel Assembly: Outsourced
 -  Implementation, Testing and Commissioning
 > insert image <
-- No. of Sites: 1
+- No. of Sites: 2
 
 120 CMD STP (SBR Process)- High-Rise Condominiums
 -  Design (Calculations, Motor Control Panel Assembly Layout)

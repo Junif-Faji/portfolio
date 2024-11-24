@@ -11,6 +11,7 @@ Control and Power System (Low Voltage- 460-230 Volts, 3 phase):
 - Design: Plant Load Calculations, Electrical Layout for both Power and Equipments,  Motor Control Design including Automation and Controls, MCC layout design for Fabrication
 - Project Implementation: Supplier Coordination, Project Management, Manpower Supervision, Client relationship, Produce shop drawings, Management of budget
 - Estimation: Bills of Materials (Take-off), Manpower, Equipment
+
 Fit-outs for Residential and Commercial
 -  Design: Lighting, Electrical Layout, Computation of Loads
 -  Project Implementation: Project Supervision, Project Management

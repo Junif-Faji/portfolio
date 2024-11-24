@@ -12,6 +12,7 @@ Bachelor of Science in Electrical Engineering
 - Bluebeam Revu
 - Solidworks
 - RSLogix 500 (Free Version)
+- Microsoft softwares
 
 ### Specialization
 Control and Power System (Low Voltage- 460-230 Volts, 3 phase): 

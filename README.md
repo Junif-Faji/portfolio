@@ -6,6 +6,13 @@ Bachelor of Science in Electrical Engineering
 ### Licenses
 (Philippines) Registered Electrical Engineer (REE) - Regulated by PRC
 
+### Softwares
+- AutoCAD (Original and Electrical)
+- SketchUp
+- Bluebeam Revu
+- Solidworks
+- RSLogix 500 (Free Version)
+
 ### Specialization
 Control and Power System (Low Voltage- 460-230 Volts, 3 phase): 
 - Design: Plant Load Calculations, Electrical Layout for both Power and Equipments,  Motor Control Design including Automation and Controls, MCC layout design for Fabrication
